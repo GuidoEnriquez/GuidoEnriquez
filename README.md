@@ -22,7 +22,7 @@ Soy **Desarrollador de Software** y **Técnico en Infraestructura Informática**
 
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guido-facundo-enriquez-dev)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wido-dev-portafolio.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wido-dev-portafolio.vercel.app/)
 
 ---
 *"El código es la herramienta, la solución es el objetivo."*
