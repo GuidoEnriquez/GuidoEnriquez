@@ -6,7 +6,7 @@ Soy **Desarrollador de Software** y **Técnico en Infraestructura Informática**
 
 ### 🚀 En qué estoy trabajando
 - 🤖 **Automatización:** Perfeccionando un Bot de WhatsApp para gestión de turnos (Node.js + Docker).
-- 🏥 **HealthTech:** Desarrollando landing pages estratégicas para odontólogos y profesionales de salud.
+- 🏥 **HealthTech:** Desarrollando sitios webs estratégicos para profesionales.
 - 🎓 **Formación:** Cursando la Tecnicatura Universitaria en Programación (UTN).
 
 ### 🛠️ Tech Stack
