@@ -16,7 +16,7 @@ Soy **Desarrollador de Software** y **Técnico en Infraestructura Informática**
 
 ### 📂 Proyectos Destacados
 - [**Showcase: Bot de Turnos**](https://github.com/GuidoEnriquez/Appointment-Bot-Showcase) - Automatización con Node.js y Docker.
-- [**WidoDev Portafolio**]((https://wido-dev-portafolio.vercel.app)) - Mi carta de presentación digital.
+- [**WidoDev Portafolio**](https://wido-dev-portafolio.vercel.app) - Mi carta de presentación digital.
 
 ---
 
