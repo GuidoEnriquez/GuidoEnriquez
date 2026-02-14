@@ -16,14 +16,13 @@ Soy **Desarrollador de Software** y **Técnico en Infraestructura Informática**
 
 ### 📂 Proyectos Destacados
 - [**Showcase: Bot de Turnos**](https://github.com/GuidoEnriquez/Appointment-Bot-Showcase) - Automatización con Node.js y Docker.
-- [**WidoDev Portafolio**](https://tu-enlace-de-vercel.com) - Mi carta de presentación digital.
-- [**Clínica Dental Demo**](https://github.com/GuidoEnriquez/ClinicaDentalDemo) - Landing page optimizada para nicho médico.
+- [**WidoDev Portafolio**]((https://wido-dev-portafolio.vercel.app)) - Mi carta de presentación digital.
 
 ---
 
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guido-facundo-enriquez-dev)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]([TU_LINK_DE_PORTAFOLIO](https://wido-dev-portafolio.vercel.app/))
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wido-dev-portafolio.vercel.app/)
 
 ---
 *"El código es la herramienta, la solución es el objetivo."*
