@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Guido Facundo Enriquez 👋
 
-<!--
-**GuidoEnriquez/GuidoEnriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador de Software** y **Técnico en Infraestructura Informática** de Goya, Corrientes. Me especializo en crear soluciones digitales que resuelven problemas reales, combinando la robustez de Java con la agilidad de Node.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 En qué estoy trabajando
+- 🤖 **Automatización:** Perfeccionando un Bot de WhatsApp para gestión de turnos (Node.js + Docker).
+- 🏥 **HealthTech:** Desarrollando landing pages estratégicas para odontólogos y profesionales de salud.
+- 🎓 **Formación:** Cursando la Tecnicatura Universitaria en Programación (UTN).
+
+### 🛠️ Tech Stack
+- **Backend:** Java (Spring Boot, POO), Node.js, PostgreSQL.
+- **Frontend:** JavaScript (DOM), HTML5, CSS3.
+- **DevOps:** Docker, Git.
+
+### 📂 Proyectos Destacados
+- [**Showcase: Bot de Turnos**](https://github.com/GuidoEnriquez/Appointment-Bot-Showcase) - Automatización con Node.js y Docker.
+- [**WidoDev Portafolio**](https://tu-enlace-de-vercel.com) - Mi carta de presentación digital.
+- [**Clínica Dental Demo**](https://github.com/GuidoEnriquez/ClinicaDentalDemo) - Landing page optimizada para nicho médico.
+
+---
+
+### 📫 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guido-facundo-enriquez-dev)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]([TU_LINK_DE_PORTAFOLIO](https://wido-dev-portafolio.vercel.app/))
+
+---
+*"El código es la herramienta, la solución es el objetivo."*
